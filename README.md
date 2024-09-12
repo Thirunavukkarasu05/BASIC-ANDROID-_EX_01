@@ -27,8 +27,8 @@ Step 7: Save and run the application.
 
 
 ## PROGRAM
-### DEVELOPED BY : Dhanush P
-### REGISTER NO: 212222040034
+### DEVELOPED BY : Thirunavukkarasu P
+### REGISTER NO: 212222040173
 
 ### MainActivity.java:
 ```
